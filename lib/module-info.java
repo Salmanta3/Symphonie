@@ -1,0 +1,2 @@
+module nouveau.projet {
+}
